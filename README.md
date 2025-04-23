@@ -13,7 +13,7 @@ O gráfico irá aparecer automaticamente e começar a atualizar em tempo real.
 
 ## Desenvolvimento
 
-Este projeto foi desenvolvido utilizando o Python 3.6+ e as bibliotecas
+Este projeto foi desenvolvido utilizando o Python 3.12+ e as bibliotecas
 `psutil` e `matplotlib`.
 
 ## Licença
